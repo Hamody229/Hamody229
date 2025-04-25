@@ -47,14 +47,15 @@ Here's a glimpse of the technologies and tools I enjoy working with:
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
 </p>
----
+
+-----
 
 ## 🌱 What I'm Currently Exploring
 
 * Diving deeper into Machine Learning algorithms and applications.
 * Improving my skills in modern web frameworks like React.
 
----
+-----
 
 ## ✨ My Projects
 
