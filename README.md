@@ -70,6 +70,9 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
   <a href="https://www.linkedin.com/in/ahmed-eslam-7720a32a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
+    <a href="https://www.facebook.com/profile.php?id=100057995648670" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>&nbsp;
   </p>
 
 ---
