@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hi there, I'm ِ Ahmed Eslam 👋🏼
+# Hi there, I'm Ahmed Eslam 👋🏼
 
 I'm a passionate **Communication and Electronics Engineering** student at the Faculty of Engineering, Alexandria University , currently based in Alexandria, Egypt. 🇪🇬
 
