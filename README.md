@@ -76,7 +76,7 @@ Studying **Communication and Electronics** at the Faculty of Engineering, Alexan
 
 ---
 
-## 🐍 GitHub Snake Animation
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
