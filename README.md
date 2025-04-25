@@ -59,14 +59,6 @@ Here's a glimpse of the technologies and tools I enjoy working with:
 
 Check out my pinned repositories below! They highlight some of my favorite projects.
 
----
-
-## 📊 My GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hamody's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
