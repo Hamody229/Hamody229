@@ -73,6 +73,9 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
     <a href="https://www.facebook.com/profile.php?id=100057995648670" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>&nbsp;
+    <a href="https://www.behance.net/gaballahah05de" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/your-username" alt="Behance"/>
+  </a>&nbsp;
   </p>
 
 ---
