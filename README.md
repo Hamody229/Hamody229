@@ -2,10 +2,10 @@
 
 # Hi there, I'm Hamody 👋🏼
 
-I'm a passionate **Communication and Electronics Engineering** student at the Faculty of Engineering, Alexandria University.
+I'm a passionate **Communication and Electronics Engineering** student at the Faculty of Engineering, Alexandria University , currently based in Alexandria, Egypt. 🇪🇬
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Hamody229&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hamody229&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
